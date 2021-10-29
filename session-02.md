@@ -1,9 +1,9 @@
 # SESSION 2
 
-Date: 2021-10-25  
-System: Hero's Journey  
-GME: Mythic / Mythic Mag 3 (Random Dungeon Generator)  
-Characters: Chania (ranger), Malory (wizard), Skerrig (fighter)  
+**Date**: 2021-10-25  
+**System**: Hero's Journey  
+**GME**: Mythic / Mythic Mag 3 (Random Dungeon Generator)  
+**Characters**: Chania (ranger), Malory (wizard), Skerrig (fighter)  
 
 
 
@@ -22,7 +22,7 @@ Narrative is written like this.
 
 
 
-## INTERLUDE
+## Interlude
 
 What's Chania's story?
 
@@ -36,7 +36,7 @@ One night, when they were hunting a great stag, she and her father found themsel
 
 
 
-# Setup
+## Setup
 
 Chania was arrested for the attempted murder of her mother, but was released when she produced an alibi. Now she must find out who tried to kill her mother.
 
@@ -44,10 +44,10 @@ Chania was arrested for the attempted murder of her mother, but was released whe
 
 
 
-## SCENE 1
-Setup: Chania, Malory and Skerrig question Maidel at her bedside.  
-Altered: Maidel is being looked after at the local church.  
-What's fun about this scene: Finding out the circumstances of the attack.
+## Scene 1
+**Setup**: Chania, Malory and Skerrig question Maidel at her bedside.  
+**Altered**: Maidel is being looked after at the local church.  
+**What's fun about this scene**: Finding out the circumstances of the attack.
 
 > MAIDEL  
 > I know it wasn't you, my daughter. I'm so sorry I doubted you. You could never do such a thing, I know it.
@@ -93,10 +93,10 @@ It was on a street known for its open-air market stalls. Not the most central pl
 
 
 
-## SCENE 2
-Setup: The heroes search for the gang of youths that might have witnessed the attack  
-Altered: The heroes search for the young magician that might have witnessed the attack  
-What's fun about this scene: Investigation and role-playing
+## Scene 2
+**Setup**: The heroes search for the gang of youths that might have witnessed the attack  
+**Altered**: The heroes search for the young magician that might have witnessed the attack  
+**What's fun about this scene**: Investigation and role-playing
 
 
 	Is the young man in the same alley (25%)? 21. Yes.
@@ -206,7 +206,7 @@ The young man nods, and the party moves on.
 
 
 
-## SCENE 3
+## Scene 3
 
 	I've generated a new plotline, The Imposter. Maidel was an imposter. She
 	was killed and an imposter took her place, using illusions and tricks to
@@ -224,7 +224,7 @@ The young man nods, and the party moves on.
 	Story: Originally built for evil purposes. Also, [expose, intellect]. We'll
 	say the dungeon was originally an evil wizard's underground library.
 
-	Descriptors: Delightfully natural. Lots of stonework. The dungeon is
+	Descriptors: [Delightfully natural]. Lots of stonework. The dungeon is
 	beneath a forest. Although constructed of stone, the roots from the trees
 	above have long since found their way through the ceiling and made
 	themselves at home.
