@@ -13,13 +13,11 @@
 
 Narrative is written like this.
 
-	| System/GME mechanics are written like this.
+    System/GME mechanics are written like this.  
+    Mythic Event Action and Meaning results are in square brackets, e.g. [Struggle, a path]
 
-	SPEAKER
-	Dialogue is written like this.
-
-	>>> Work through your writer's block. Remember, writer's block doesn't usually mean that you have no ideas, just that you're not satisfied with the idea you have. Start writing about it!
-
+> SPEAKER  
+> Dialogue is written like this.  
 
 
 ## Interlude
@@ -234,10 +232,10 @@ The young man nods, and the party moves on.
 
 
 ## Area 1
-Progress Points: 0  
-Location: 9. Random [Mysterious, drab]  
-Encounter: 1. Expected. I'll say there's a puzzle to prevent casual looters.  
-Objects: 10. Random [Military, official]
+**Progress Points**: 0  
+**Location**: 9. Random [Mysterious, drab]  
+**Encounter**: 1. Expected. I'll say there's a puzzle to prevent casual looters.  
+**Objects**: 10. Random [Military, official]
 
 The party tracks the imposter for several days. At one point, Chania loses the tracks, but manages by chance to find them again, and follows them to a clearing on the edge of the sacred forest of Illioch. These lands are known to her father and his people, and Chania is familiar with the many dangers that lie within.
 
@@ -280,28 +278,28 @@ Next, they turn to the entrance to the dungeon.
 
 
 ## Area X
-Progress Points: 
-Location: 
-Encounter: 
-Objects: 
+**Progress Points**:   
+**Location**:   
+**Encounter**:  
+**Objects**:  
 
 
 
 
 
 ## Area X
-Progress Points: 
-Location: 
-Encounter: 
-Objects: 
+**Progress Points**:   
+**Location**:   
+**Encounter**:  
+**Objects**:  
 
 
 
 
 
 ## Area X
-Progress Points: 
-Location: 
-Encounter: 
-Objects: 
+**Progress Points**:   
+**Location**:   
+**Encounter**:  
+**Objects**:  
 
